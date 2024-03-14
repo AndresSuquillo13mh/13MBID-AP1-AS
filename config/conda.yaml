@@ -1,4 +1,4 @@
-name: OCT2324
+name: 13MBID
 channels:
   - conda-forge
   - defaults
